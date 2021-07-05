@@ -1,0 +1,2 @@
+../test/folder1/file.xlsx
+../test/folder1/folder2/importantTax.pdf
