@@ -16,4 +16,4 @@ File Miner can be used to find files on a system based off file extension. It ca
 The primary function of this software is to find files that may be of interest to the operator.
 
 ## Future Work
-This tool should be made a little cleaner when it comes to searching each file for SSN's or Credit Card Numbers. Future work should include cleaning up the UI of the web app, adding more funcionality to search for additional files, and making the Python script send the files themselves over the network.
+This tool should be made a little cleaner when it comes to searching each file for SSN's or Credit Card Numbers. Future work should include cleaning up the UI of the web app, adding more funcionality to search for additional files, and making the Python script send the files themselves over the network. Finally, install scripts to setup the initial database will be developed.
